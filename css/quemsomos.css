@@ -1,0 +1,34 @@
+.LinhaQuemSomos {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin:30px 10px;
+    
+}
+
+.LinhaQuemSomos img{
+ 
+    width: 100%;
+    height: 300px;
+}
+
+.texto h2{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.texto h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.texto p{
+    font-size: 15px;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+main{
+	width: 100%;
+	min-height: 340px;/*edita o tamanho da main depois do produtos.css*/
+	background: #fff; 
+}
